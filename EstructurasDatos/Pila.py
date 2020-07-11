@@ -15,6 +15,10 @@ class Pila:
         return self.items == []
 
 
+def saludo(nombre):
+    print("hola ", nombre)
+
+
 p = Pila()
 print(p.es_vacia())
 p.apilar(10)
