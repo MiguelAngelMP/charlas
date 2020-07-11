@@ -19,6 +19,10 @@ def saludoPersonal(saludo, nombre):
     print(saludo, nombre)
 
 
+def saludo(nombre):
+    print("hola ", nombre)
+
+
 p = Pila()
 print(p.es_vacia())
 p.apilar(10)
