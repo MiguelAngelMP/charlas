@@ -30,6 +30,9 @@ p.apilar(1)
 print(p.es_vacia())
 
 
+print("HOla")
+print(p.desapilar())
+print(p.desapilar())
 print(p.desapilar())
 print(p.desapilar())
 print(p.desapilar())
